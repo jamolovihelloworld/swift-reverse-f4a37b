@@ -1,0 +1,1 @@
+let s = "GitHub"; print(String(s.reversed()))
